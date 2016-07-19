@@ -1,0 +1,135 @@
+html {
+margin : 0;
+padding : 0;
+}
+body {
+font-family :Helvetica,Arial;
+line-height : 18px;
+font-size : 15px;
+color : #06185c;
+background :#E0F2F1;
+margin : 0;
+padding : 0;
+}
+h1{
+		color:#000000;
+		text-align : center;
+		
+}
+.ima{
+	margin:auto;
+	width: 100%;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    background-color: #90A4AE;
+}
+p {
+margin : 10px;
+padding : 0;
+}
+
+ h3 {
+background-color:#FFD740;
+color:black;
+}
+ul {
+padding-left : 0;
+margin-left : 0;
+}
+li {
+padding-left : 7px;
+margin-bottom : 5px;
+}
+abbr {
+border-bottom : none;
+color:#827717;
+}
+.page-wrapper {
+margin : auto;
+width : 800px;
+position : relative;
+}
+
+header {
+height : 34px;
+overflow : hidden;
+top : 462px;
+left : 205px;
+width : 587px;
+}
+
+.summary{
+	color:#00695C;
+}
+.preamble {
+padding : 100px 100px 0 200px;
+}
+.supporting {
+
+height : 100%;
+}
+.explanation {
+padding : 30px 100px 30px 200px;
+height : 100%;
+}
+.participation {
+margin : 20px 100px 30px 200px;
+padding-top : 40px;
+height : 100%;
+}
+.benefits {
+margin : 65px 100px 30px 200px;
+padding-top : 40px;
+height : 100%;
+}
+.requirements {
+margin : 65px 100px 30px 200px;
+padding : 40px 0 15px 0;
+border-bottom : 1px solid #720a0b;
+height : 100%;
+}
+footer {
+padding : 10px;
+text-align : center;
+}
+.sidebar {
+position : absolute;
+width : 150px;
+top : 603px;
+z-index : 6;
+color : #00695C;
+font-size : 12px;
+left : 25px;
+height : 550px;
+line-height : 13px;
+}
+.sidebar a:hover {
+text-decoration : underline;
+}
+.design-selection {
+margin : 5px 0 0 0;
+padding : 20px 0 0 0;
+width : 150px;
+}
+.design-archives {
+margin : 10px 0 0 0;
+padding : 30px 0 0 0;
+width : 150px;
+
+}
+.zen-resources {
+margin : 15px 0 0 0;
+padding : 30px 0 0 0;
+width : 150px;
+}
+.primero{
+	background-color:#FFC400; 
+}
+
+.segundo{
+	background-color:#DCE775; 
+}
+.tercero{
+	background-color:#66BB6A; 
+}
